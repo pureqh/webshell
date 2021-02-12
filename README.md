@@ -14,3 +14,8 @@ command：python php_webshell.py<br>
 blog:https://pureqh.top/?p=4638<br>
 知识点：利用函数分隔关键字<br>
 https://pureqh.top/?p=4720
+# 更新日志
+UpdateTime 2021/2/12 <br>
+由于D盾增加规则 将 if(md5($_GET["pass"])=="df24bfd1325f82ba5fd3d3be2450096e") 作为匹配规则 所以更新专用于D盾的webshell生成器<br>
+php_D_webshell.py<br>
+其他生成器不受影响
