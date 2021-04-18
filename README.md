@@ -22,3 +22,9 @@ https://pureqh.top/?p=4720
 php_D_webshell.py<br>
 只用注释依然可以过D盾<br>
 其他生成器不受影响
+
+## 更新日志 2021/4/18
+
+由于D盾将aspx生成器的马提取规则，所以更新专用于D盾的webshell生成器<br>
+aspx_D_webshell.py<br>
+改动很小 正则查杀万岁！
