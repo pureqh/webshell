@@ -2,7 +2,8 @@
 v2.0<br>
 仅供学习 请勿用作非法用途<br>
 更新了部分规则，现在可以绕过包括但不仅限于D盾、webdir+、河马、安全狗等查杀工具<br>
-项目适配了asp、aspx、php语言
+项目适配了asp、aspx、php、jsp语言<br>
+此项目内的所有shell均支持蚁剑<br>
 
 ## 免杀webshell生成工具
 
@@ -28,3 +29,7 @@ php_D_webshell.py<br>
 由于D盾将aspx生成器的马提取规则，所以更新专用于D盾的webshell生成器<br>
 aspx_D_webshell.py<br>
 改动很小 正则查杀万岁！
+
+## 更新日志 2021/4/22
+
+万众瞩目的jsp生成器它来了<br>
